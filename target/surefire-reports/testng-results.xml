@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-18T22:38:42 ICT" name="ui.tests.Tests" finished-at="2020-08-18T22:39:03 ICT" duration-ms="20781">
+    <groups>
+    </groups>
+    <test started-at="2020-08-18T22:38:42 ICT" name="Command line test" finished-at="2020-08-18T22:39:03 ICT" duration-ms="20781">
+      <class name="ui.tests.Tests">
+        <test-method is-config="true" signature="getDriver()[pri:0, instance:ui.tests.Tests@5c8504fd]" started-at="2020-08-18T22:38:42 ICT" name="getDriver" finished-at="2020-08-18T22:38:48 ICT" duration-ms="5556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriver -->
+        <test-method signature="verifySortedByFirstName()[pri:1, instance:ui.tests.Tests@5c8504fd]" started-at="2020-08-18T22:38:48 ICT" name="verifySortedByFirstName" description="Verify sorting of First Name column" finished-at="2020-08-18T22:38:57 ICT" duration-ms="9344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySortedByFirstName -->
+        <test-method signature="verifyFilerInactiveStatus()[pri:2, instance:ui.tests.Tests@5c8504fd]" started-at="2020-08-18T22:38:57 ICT" name="verifyFilerInactiveStatus" description="Verify filter Student Access Request with INACTIVE" finished-at="2020-08-18T22:39:02 ICT" duration-ms="5198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFilerInactiveStatus -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ui.tests.Tests@5c8504fd]" started-at="2020-08-18T22:39:02 ICT" name="tearDown" finished-at="2020-08-18T22:39:03 ICT" duration-ms="611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ui.tests.Tests -->
+    </test> <!-- Command line test -->
+  </suite> <!-- ui.tests.Tests -->
+</testng-results>

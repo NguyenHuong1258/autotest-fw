@@ -1,0 +1,4 @@
+ui\tests\Tests.class
+ui\pom\PortalPage.class
+ui\pom\SignInPage.class
+ui\pom\PageObjectManager.class

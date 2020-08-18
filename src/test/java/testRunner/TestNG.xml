@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ParentPortal-Exp" parallel="tests">
+
+    <listeners>
+        <listener class-name="utilities.reports.TestListeners"/>
+    </listeners>
+
+    <test name="Exploratory - UI">
+        <classes>
+            <class name="ui.tests.Tests"/>
+        </classes>
+    </test>
+</suite> <!-- Suite -->
