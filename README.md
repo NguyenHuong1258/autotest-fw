@@ -12,7 +12,7 @@ This framework is basically developed and designed to automate web applications 
 - Hamcrest
 # How to Setup & Configure
 1. Install and IDE such as IntelliJ/Eclipse (Any latest version will work)
-2. Install Maven plugin in IDE and your local system if it is not present/enabled.
+2. Install Maven in IDE and your local system if it is not present/enabled/installed.
 3. Use git lfs clone to download the automation framework to your local system
 # How to run test
 From command prompt go to project level and execute following command(it is advised to use command line option to run): 
