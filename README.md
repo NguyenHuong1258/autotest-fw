@@ -1,5 +1,5 @@
 # About Selenium Automation Framework
-This framework is basically developed and designed to automate web applications (for UI)
+This framework is basically developed and designed to automate web applications (for UI, API)
 # Work Flow
 At a high level, the Git Development Workflow being followed is:
   1. Create a branch
