@@ -1,11 +1,5 @@
 # About Selenium Automation Framework
 This framework is basically developed and designed to automate web applications (for UI, API)
-# Work Flow
-At a high level, the Git Development Workflow being followed is:
-  1. Create a branch
-  2. Do your work
-  3. Prepare feature/bug_fix branch (Make sure commit history is clean)
-  4. Raise pull request to merge your branch into the main repo branches
 # Tools, Approaches and Technologies Used
 - Page Object Model
 - Core Java
