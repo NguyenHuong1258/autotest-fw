@@ -9,7 +9,7 @@ import java.util.Properties;
 public class PropertyReader {
 
     private Properties prop;
-    private final String propPath = "src/main/resources/typicode.properties";
+    private final String propPath = "src/main/resources/properties/typicode.properties";
     private static volatile PropertyReader propertyReader;
 
     private PropertyReader(){

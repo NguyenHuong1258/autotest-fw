@@ -1,14 +1,19 @@
 package api.tests;
 
 import api.utils.PropertyReader;
-import org.junit.jupiter.api.BeforeAll;
+import io.restassured.RestAssured;
+import org.testng.annotations.BeforeClass;
+
 
 public class TestBase {
 
     public static PropertyReader prop;
 
-    @BeforeAll
+
+    public static String BASE_URL;
+    @BeforeClass
     public static void init(){
         prop = PropertyReader.getInstance();
+        RestAssured.baseURI = prop.getBaseUrl();
     }
 }
