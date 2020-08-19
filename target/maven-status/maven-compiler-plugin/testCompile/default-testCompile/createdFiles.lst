@@ -1,4 +1,10 @@
+api\tests\APITest.class
 ui\tests\Tests.class
+api\tags\Exploratory.class
 ui\pom\PortalPage.class
 ui\pom\SignInPage.class
 ui\pom\PageObjectManager.class
+api\utils\PropertyReader.class
+api\utils\RestUtils.class
+api\tests\TestBase.class
+api\utils\HelperMethods.class

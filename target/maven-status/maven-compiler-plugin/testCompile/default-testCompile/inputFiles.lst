@@ -1,4 +1,10 @@
-D:\Programing\Karros\Auto-FW\src\test\java\ui\pom\PortalPage.java
-D:\Programing\Karros\Auto-FW\src\test\java\ui\pom\PageObjectManager.java
-D:\Programing\Karros\Auto-FW\src\test\java\ui\tests\Tests.java
-D:\Programing\Karros\Auto-FW\src\test\java\ui\pom\SignInPage.java
+C:\Programing\Challenge\karros\autotest-fw\src\test\java\api\tags\Exploratory.java
+C:\Programing\Challenge\karros\autotest-fw\src\test\java\ui\pom\PageObjectManager.java
+C:\Programing\Challenge\karros\autotest-fw\src\test\java\api\utils\PropertyReader.java
+C:\Programing\Challenge\karros\autotest-fw\src\test\java\api\tests\APITest.java
+C:\Programing\Challenge\karros\autotest-fw\src\test\java\ui\pom\PortalPage.java
+C:\Programing\Challenge\karros\autotest-fw\src\test\java\api\utils\HelperMethods.java
+C:\Programing\Challenge\karros\autotest-fw\src\test\java\ui\pom\SignInPage.java
+C:\Programing\Challenge\karros\autotest-fw\src\test\java\ui\tests\Tests.java
+C:\Programing\Challenge\karros\autotest-fw\src\test\java\api\tests\TestBase.java
+C:\Programing\Challenge\karros\autotest-fw\src\test\java\api\utils\RestUtils.java

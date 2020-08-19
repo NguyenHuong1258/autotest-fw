@@ -6,8 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ui-api-auto-fw" />
         <module name="Auto-FW" />
+        <module name="ui-api-auto-fw" />
+        <module name="autotest-fw" />
       </profile>
     </annotationProcessing>
   </component>
