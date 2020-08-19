@@ -17,11 +17,9 @@ At a high level, the Git Development Workflow being followed is:
 - RestAssured
 - Hamcrest
 # How to Setup & Configure
-1 Install and IDE such as VScode/IntelliJ/Eclipse (Any latest version will work)
-2 Install Maven plugin in IDE if it is not present/enabled. Also install plugins for Lomboks and Gherkins
-3 Use git lfs clone to download the automation framework to your local system
-4 Locate pom.XML and right click and choose Run As -> Maven Build
-5 Check whether the build is successful
+1. Install and IDE such as IntelliJ/Eclipse (Any latest version will work)
+2. Install Maven plugin in IDE and your local system if it is not present/enabled.
+3. Use git lfs clone to download the automation framework to your local system
 # How to run test
 From command prompt go to project level and execute following command(it is advised to use command line option to run): 
 > mvn clean test
