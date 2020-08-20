@@ -12,8 +12,8 @@ This framework is basically developed and designed to automate web applications 
 - Hamcrest
 # How to Setup & Configure
 1. Install and IDE such as IntelliJ/Eclipse (Any latest version will work)
-2. Install Maven in IDE and your local system if it is not present/enabled/installed.
-3. Install allure-commandline on your local system.
+2. Install Maven in IDE and your local system if it is not present/enabled/installed yet.
+3. Install allure-commandline on your local system if it is not installed yet.
 4. Use git lfs clone to download the automation framework to your local system.
 # How to run test
 From command prompt go to project level and execute following command: 
