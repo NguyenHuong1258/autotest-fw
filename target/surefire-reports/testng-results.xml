@@ -2,34 +2,34 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-08-19T18:45:26 ICT" name="Command line suite" finished-at="2020-08-19T18:45:56 ICT" duration-ms="30145">
+  <suite started-at="2020-08-20T14:19:18 ICT" name="Command line suite" finished-at="2020-08-20T14:19:47 ICT" duration-ms="28764">
     <groups>
     </groups>
-    <test started-at="2020-08-19T18:45:26 ICT" name="Command line test" finished-at="2020-08-19T18:45:56 ICT" duration-ms="30145">
+    <test started-at="2020-08-20T14:19:18 ICT" name="Command line test" finished-at="2020-08-20T14:19:47 ICT" duration-ms="28764">
       <class name="api.tests.APITest">
-        <test-method is-config="true" signature="init()[pri:0, instance:api.tests.APITest@aa549e5]" started-at="2020-08-19T18:45:26 ICT" name="init" finished-at="2020-08-19T18:45:27 ICT" duration-ms="902" status="PASS">
+        <test-method is-config="true" signature="init()[pri:0, instance:api.tests.APITest@aa549e5]" started-at="2020-08-20T14:19:18 ICT" name="init" finished-at="2020-08-20T14:19:19 ICT" duration-ms="1102" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method signature="getContentPostId()[pri:0, instance:api.tests.APITest@aa549e5]" started-at="2020-08-19T18:45:27 ICT" name="getContentPostId" description="get info postId = 1" finished-at="2020-08-19T18:45:31 ICT" duration-ms="4726" status="PASS">
+        <test-method signature="getContentPostId()[pri:0, instance:api.tests.APITest@aa549e5]" started-at="2020-08-20T14:19:19 ICT" name="getContentPostId" description="get info postId = 1" finished-at="2020-08-20T14:19:23 ICT" duration-ms="3844" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getContentPostId -->
       </class> <!-- api.tests.APITest -->
       <class name="ui.tests.Tests">
-        <test-method is-config="true" signature="getDriver()[pri:0, instance:ui.tests.Tests@36f48b4]" started-at="2020-08-19T18:45:31 ICT" name="getDriver" finished-at="2020-08-19T18:45:38 ICT" duration-ms="6092" status="PASS">
+        <test-method is-config="true" signature="getDriver()[pri:0, instance:ui.tests.Tests@36f48b4]" started-at="2020-08-20T14:19:23 ICT" name="getDriver" finished-at="2020-08-20T14:19:29 ICT" duration-ms="6136" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getDriver -->
-        <test-method signature="verifySortedByFirstName()[pri:1, instance:ui.tests.Tests@36f48b4]" started-at="2020-08-19T18:45:38 ICT" name="verifySortedByFirstName" description="Verify sorting of First Name column" finished-at="2020-08-19T18:45:49 ICT" duration-ms="11236" status="PASS">
+        <test-method signature="verifySortedByFirstName()[pri:1, instance:ui.tests.Tests@36f48b4]" started-at="2020-08-20T14:19:29 ICT" name="verifySortedByFirstName" description="Verify sorting of First Name column" finished-at="2020-08-20T14:19:40 ICT" duration-ms="10912" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifySortedByFirstName -->
-        <test-method signature="verifyFilerInactiveStatus()[pri:2, instance:ui.tests.Tests@36f48b4]" started-at="2020-08-19T18:45:49 ICT" name="verifyFilerInactiveStatus" description="Verify filter Student Access Request with INACTIVE" finished-at="2020-08-19T18:45:55 ICT" duration-ms="6269" status="PASS">
+        <test-method signature="verifyFilerInactiveStatus()[pri:2, instance:ui.tests.Tests@36f48b4]" started-at="2020-08-20T14:19:40 ICT" name="verifyFilerInactiveStatus" description="Verify filter Student Access Request with INACTIVE" finished-at="2020-08-20T14:19:46 ICT" duration-ms="5833" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyFilerInactiveStatus -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:ui.tests.Tests@36f48b4]" started-at="2020-08-19T18:45:55 ICT" name="tearDown" finished-at="2020-08-19T18:45:56 ICT" duration-ms="704" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ui.tests.Tests@36f48b4]" started-at="2020-08-20T14:19:46 ICT" name="tearDown" finished-at="2020-08-20T14:19:47 ICT" duration-ms="768" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

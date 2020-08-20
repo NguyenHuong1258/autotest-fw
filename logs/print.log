@@ -914,3 +914,31 @@
 18:45:55.324 [main] INFO  utilities.helpers.WebElementHelpers - Button is clicked.
 18:45:55.492 [main] INFO  utilities.helpers.WebElementWaits - Try to Wait for element to be visible
 18:45:55.585 [main] INFO  utilities.helpers.WebElementHelpers - The element is displayed
+14:19:34.724 [main] INFO  utilities.helpers.WebElementWaits - Try to Wait for element to be visible
+14:19:34.830 [main] INFO  utilities.helpers.WebElementHelpers - Clear text in text box
+14:19:34.897 [main] INFO  utilities.helpers.WebElementHelpers - Send keys: admin@test.com into text box
+14:19:35.052 [main] INFO  utilities.helpers.WebElementWaits - Try to Wait for element to be visible
+14:19:35.121 [main] INFO  utilities.helpers.WebElementHelpers - Clear text in text box
+14:19:35.186 [main] INFO  utilities.helpers.WebElementHelpers - Send keys: test123 into text box
+14:19:35.296 [main] INFO  utilities.helpers.WebElementWaits - Try to wait for element to be clickable by webElement
+14:19:35.365 [main] INFO  utilities.helpers.WebElementHelpers - Button is clicked.
+14:19:37.436 [main] INFO  utilities.helpers.WebElementWaits - Try to Wait for element to be visible
+14:19:37.511 [main] INFO  utilities.helpers.WebElementHelpers - The element is displayed
+14:19:37.955 [main] INFO  utilities.helpers.WebElementWaits - Try to wait for element to be clickable by webElement
+14:19:38.020 [main] INFO  utilities.helpers.WebElementHelpers - Button is clicked.
+14:19:41.182 [main] INFO  utilities.helpers.WebElementWaits - Try to Wait for element to be visible
+14:19:41.252 [main] INFO  utilities.helpers.WebElementHelpers - Clear text in text box
+14:19:41.309 [main] INFO  utilities.helpers.WebElementHelpers - Send keys: admin@test.com into text box
+14:19:41.464 [main] INFO  utilities.helpers.WebElementWaits - Try to Wait for element to be visible
+14:19:41.499 [main] INFO  utilities.helpers.WebElementHelpers - Clear text in text box
+14:19:41.556 [main] INFO  utilities.helpers.WebElementHelpers - Send keys: test123 into text box
+14:19:41.649 [main] INFO  utilities.helpers.WebElementWaits - Try to wait for element to be clickable by webElement
+14:19:41.700 [main] INFO  utilities.helpers.WebElementHelpers - Button is clicked.
+14:19:43.767 [main] INFO  utilities.helpers.WebElementWaits - Try to Wait for element to be visible
+14:19:43.825 [main] INFO  utilities.helpers.WebElementHelpers - The element is displayed
+14:19:43.825 [main] INFO  utilities.helpers.WebElementWaits - Try to wait for element to be clickable by webElement
+14:19:43.880 [main] INFO  utilities.helpers.WebElementHelpers - Button is clicked.
+14:19:46.138 [main] INFO  utilities.helpers.WebElementWaits - Try to wait for element to be clickable by webElement
+14:19:46.198 [main] INFO  utilities.helpers.WebElementHelpers - Button is clicked.
+14:19:46.294 [main] INFO  utilities.helpers.WebElementWaits - Try to Wait for element to be visible
+14:19:46.378 [main] INFO  utilities.helpers.WebElementHelpers - The element is displayed
